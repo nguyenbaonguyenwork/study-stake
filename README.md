@@ -34,3 +34,6 @@ https://stellar.expert/explorer/testnet/contract/CB4GF2PQCHZSUF26Y43FMRDOCW3IB6M
 - Group study challenges
 - Mobile application integration
 - Token incentive mechanism
+- Group study challenges
+- Mobile application integration
+- Token incentive mechanism
