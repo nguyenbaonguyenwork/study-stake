@@ -1,27 +1,21 @@
 # StudyStake
 
 ## Project Description
-StudyStake is a decentralized commitment tracking platform built on Stellar Soroban smart contracts.
+StudyStake is a decentralized study commitment platform built on Stellar Soroban smart contracts.
 
-Users can create study commitments, store them on-chain, and mark them as completed transparently.
-
----
+Users can create commitments, track study goals, and store commitment data transparently on-chain.
 
 ## Project Vision
-The project aims to improve student accountability and motivation through blockchain-based commitment systems.
+The vision of StudyStake is to improve student accountability and motivation through blockchain technology.
 
-By storing commitments on-chain, users can publicly track their progress and maintain discipline in studying.
-
----
+By storing commitments on-chain, users can maintain transparent and verifiable study progress.
 
 ## Key Features
-- Create on-chain study commitments
-- Store commitment data transparently
-- Complete commitments on-chain
-- Retrieve commitment information
-- Simple Stellar Soroban smart contract interaction
-
----
+- Create study commitments on-chain
+- Store commitment information transparently
+- Complete commitments securely
+- Retrieve commitment data from the blockchain
+- Built using Stellar Soroban smart contracts
 
 ## Deployed Contract Details
 
@@ -29,17 +23,14 @@ By storing commitments on-chain, users can publicly track their progress and mai
 Stellar Testnet
 
 ### Contract ID
-CC5TLKG5A3VYWDVNJFQYROP5PJZHHEUAL67WHODWRPOOWE63DTJBYHIU
+CB4GF2PQCHZSUF26Y43FMRDOCW3IB6MTWLQ7RKYEEBQAJQU7F5JLLTTG
 
-### Contract Explorer
-https://stellar.expert/explorer/testnet/contract/CC5TLKG5A3VYWDVNJFQYROP5PJZHHEUAL67WHODWRPOOWE63DTJBYHIU
-
----
+### Explorer Link
+https://stellar.expert/explorer/testnet/contract/CB4GF2PQCHZSUF26Y43FMRDOCW3IB6MTWLQ7RKYEEBQAJQU7F5JLLTTG
 
 ## Future Scope
 - Reward system for completed commitments
-- Token incentive mechanism
-- Student leaderboard
+- Leaderboard for students
 - Group study challenges
-- Frontend dashboard integration
-- Mobile application support
+- Mobile application integration
+- Token incentive mechanism
